@@ -1,4 +1,4 @@
-# This is a simple Python program that prints "Hello, World!" to the console.
+# This is a simple Python program that prints "Hello, World!" to the console time 1.15.
 
 def main():
     print("Hello, World!")
